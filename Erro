@@ -1,0 +1,92 @@
+2024-08-15T23:08:03 3.640 INF [MODS] Start loading from: '/home/sdtd51180/sdtd/bin/7DaysToDieServer_Data/../Mods'
+2024-08-15T23:08:03 3.669 INF [MODS]   Trying to load from folder: '1CSMM_Patrons'
+2024-08-15T23:08:03 3.706 INF [MODS]     Loaded Mod: 1CSMM_Patrons (25.0)
+2024-08-15T23:08:03 3.707 INF [MODS]   Trying to load from folder: 'Allocs_CommandExtensions'
+2024-08-15T23:08:03 3.707 WRN [MODS]     Allocs_CommandExtensions/ModInfo.xml does not define a valid Version. Please consider updating it for future compatibility.
+2024-08-15T23:08:03 3.709 INF [MODS]     Loaded Mod: Allocs_Commands (27)
+2024-08-15T23:08:03 3.709 INF [MODS]   Trying to load from folder: 'Allocs_CommonFunc'
+2024-08-15T23:08:03 3.710 WRN [MODS]     Allocs_CommonFunc/ModInfo.xml does not define a valid Version. Please consider updating it for future compatibility.
+2024-08-15T23:08:03 3.711 INF [MODS]     Loaded Mod: Allocs_Core (34)
+2024-08-15T23:08:03 3.712 INF [MODS]   Trying to load from folder: 'Allocs_WebAndMapRendering'
+2024-08-15T23:08:03 3.712 WRN [MODS]     Allocs_WebAndMapRendering/ModInfo.xml does not define a valid Version. Please consider updating it for future compatibility.
+2024-08-15T23:08:03 3.716 INF [MODS]     Loaded Mod: Allocs_Webinterface (48)
+2024-08-15T23:08:03 3.716 INF [MODS]   Trying to load from folder: 'ANTI DUP MAQUINA V1'
+2024-08-15T23:08:03 3.719 INF [MODS]     Loaded Mod: Vendor_Dupe_Fix (1.0)
+2024-08-15T23:08:03 3.719 INF [MODS]   Trying to load from folder: 'ARMAS E MODS V1'
+2024-08-15T23:08:03 3.720 INF [MODS]     Loaded Mod: Armas_Mods_v1 (1.0)
+2024-08-15T23:08:03 3.720 INF [MODS]   Trying to load from folder: 'ARVORES E MOITAS V1'
+2024-08-15T23:08:03 3.721 INF [MODS]     Loaded Mod: ARVORES_E_MOITAS_v1_0 (1.0.01)
+2024-08-15T23:08:03 3.722 INF [MODS]   Trying to load from folder: 'AUTOMINER V1'
+2024-08-15T23:08:03 3.723 INF [MODS]     Loaded Mod: SnufkinAbasiyanikAutoMinerMod (1.1)
+2024-08-15T23:08:03 3.723 INF [MODS]   Trying to load from folder: 'BARRA DE VIDA V1'
+2024-08-15T23:08:03 3.724 INF [MODS]     Loaded Mod: STYX_HP_bar (1.0)
+2024-08-15T23:08:03 3.724 INF [MODS]   Trying to load from folder: 'BAÚ INDESTRUTÍVEL V1'
+2024-08-15T23:08:03 3.724 INF [MODS]     Loaded Mod: Bau_Indestruitivel_multicores (1.0)
+2024-08-15T23:08:03 3.724 INF [MODS]   Trying to load from folder: 'BR ELITE ZOMBIES V1'
+2024-08-15T23:08:03 3.725 INF [MODS]     Loaded Mod: BR-EliteZombies (1.0)
+2024-08-15T23:08:03 3.725 INF [MODS]   Trying to load from folder: 'COMIDAS VANILLA V1'
+2024-08-15T23:08:03 3.726 INF [MODS]     Loaded Mod: VanillaFoodModel (1.0)
+2024-08-15T23:08:03 3.726 INF [MODS]   Trying to load from folder: 'DESTAQUE LEGENDA V1'
+2024-08-15T23:08:03 3.726 INF [MODS]     Loaded Mod: Scomar82_Hobacs (1.1)
+2024-08-15T23:08:03 3.726 INF [MODS]   Trying to load from folder: 'DROP DE LUA V1'
+2024-08-15T23:08:03 3.728 INF [MODS]     Loaded Mod: DROP_LUA_V1 (1.0.1)
+2024-08-15T23:08:03 3.728 INF [MODS]   Trying to load from folder: 'ENTIDADES EQUIPAVEIS V1'
+2024-08-15T23:08:03 3.728 INF [MODS]     Loaded Mod: Entidades_EQPV1 (1.0.8)
+2024-08-15T23:08:03 3.728 INF [MODS]   Trying to load from folder: 'GIRO MODIFICADO V1'
+2024-08-15T23:08:03 3.729 INF [MODS]     Loaded Mod: FPS_Gyrocopter_R1 (1.0.1)
+2024-08-15T23:08:03 3.729 INF [MODS]   Trying to load from folder: 'HUD NOVA V1'
+2024-08-15T23:08:03 3.730 INF [MODS]     Loaded Mod: AGF-V1-HUDPlus-1Main (2.0.0)
+2024-08-15T23:08:03 3.730 INF [MODS]   Trying to load from folder: 'KIT INICIAL V1'
+2024-08-15T23:08:03 3.735 INF [MODS]     Loaded Mod: Doughs-InitialPlayerSpawn-AddSmallBundleWithT1Pistol (21.2.0.1)
+2024-08-15T23:08:03 3.735 INF [MODS]   Trying to load from folder: 'MAIS MISSÕES V1'
+2024-08-15T23:08:03 3.736 INF [MODS]     Loaded Mod: DewtasHoldMoreQuests (1.0)
+2024-08-15T23:08:03 3.736 INF [MODS]   Trying to load from folder: 'MAIS MODIFICAÇÕES EM ARMADURAS V1'
+2024-08-15T23:08:03 3.736 INF [MODS]     Loaded Mod: DewtasMoreModSlots (1.0)
+2024-08-15T23:08:03 3.736 INF [MODS]   Trying to load from folder: 'MATO NAS ESTRADAS V1'
+2024-08-15T23:08:03 3.738 INF [MODS]     Loaded Mod: Overgrownroads (1.0)
+2024-08-15T23:08:03 3.738 INF [MODS]   Trying to load from folder: 'MOCHILA 60 SLOTS'
+2024-08-15T23:08:03 3.742 INF [MODS]     Loaded Mod: Wyr3d-NotJustShyOf50 (1.0.0.1)
+2024-08-15T23:08:03 3.742 INF [MODS]   Trying to load from folder: 'PAINEL ESC V1'
+2024-08-15T23:08:03 3.743 INF [MODS]     Loaded Mod: PAINEL_ESC_V1 (1.0.0.1)
+2024-08-15T23:08:03 3.743 INF [MODS]   Trying to load from folder: 'RECOLHA MINAS V1'
+2024-08-15T23:08:03 3.746 INF [MODS]     Loaded Mod: PickUpMines (1.0)
+2024-08-15T23:08:03 3.746 INF [MODS]   Trying to load from folder: 'REDEFINIR MISSAO V1'
+2024-08-15T23:08:03 3.747 INF [MODS]     Loaded Mod: ResetQuestsMod (1.1.0.0)
+2024-08-15T23:08:03 3.747 INF [MODS]   Trying to load from folder: 'RESPAWN ARVORES V1'
+2024-08-15T23:08:03 3.748 INF [MODS]     Loaded Mod: FNS_Self-Planting_Trees (1.0)
+2024-08-15T23:08:03 3.748 INF [MODS]   Trying to load from folder: 'RESPAWN CARROS V1'
+2024-08-15T23:08:03 3.748 INF [MODS]     Loaded Mod: Sams_Car_and_Truck_Respawner (1.0.1)
+2024-08-15T23:08:03 3.748 INF [MODS]   Trying to load from folder: 'VEÍCULOS V1'
+2024-08-15T23:08:03 3.749 INF [MODS]     Loaded Mod: VEICULOS_V1 (1.1.0.0)
+2024-08-15T23:08:03 3.749 INF [MODS]   Trying to load from folder: 'ZOMBIES GIGANTES V1'
+2024-08-15T23:08:03 3.750 INF [MODS]     Loaded Mod: RS1GM (1.0)
+2024-08-15T23:08:03 3.751 INF [MODS] Initializing mod code
+2024-08-15T23:08:03 3.752 INF [MODS]   Initializing mod 1CSMM_Patrons
+2024-08-15T23:08:03 3.758 INF [MODS]     Found ModAPI in CSMM_Patrons.dll, creating instance
+2024-08-15T23:08:03 3.766 INF [MODS]     Initialized code in mod '1CSMM_Patrons' from DLL 'CSMM_Patrons.dll'
+2024-08-15T23:08:03 3.777 INF [MODS]   Initializing mod Allocs_Commands
+2024-08-15T23:08:03 3.777 INF [MODS]     No ModAPI found in mod DLLs
+2024-08-15T23:08:03 3.777 INF [MODS]   Initializing mod Allocs_Core
+2024-08-15T23:08:03 3.777 INF [MODS]     Found ModAPI in 7dtd-server-fixes.dll, creating instance
+2024-08-15T23:08:03 3.779 INF [MODS]     Initialized code in mod 'Allocs_Core' from DLL '7dtd-server-fixes.dll'
+2024-08-15T23:08:03 3.780 INF [MODS]   Initializing mod Allocs_Webinterface
+2024-08-15T23:08:03 3.789 WRN [MODS]     Failed iterating types in DLL AllocsWeb.dll
+2024-08-15T23:08:03 3.789 INF [MODS]     No ModAPI found in mod DLLs
+2024-08-15T23:08:03 3.789 INF [MODS]   Initializing mod DROP_LUA_V1
+2024-08-15T23:08:03 3.789 INF [MODS]     Found ModAPI in BloodmoonServerStatus.dll, creating instance
+2024-08-15T23:08:03 3.792 ERR [MODS]     Failed initializing ModAPI instance on mod 'DROP_LUA_V1' from DLL 'BloodmoonServerStatus.dll'
+2024-08-15T23:08:03 3.824 INF [MODS] Loading done
+2024-08-15T23:08:03 3.826 INF [MODS] Loading localization from mod: Armas_Mods_v1
+2024-08-15T23:08:03 3.828 INF [MODS] Loading localization from mod: SnufkinAbasiyanikAutoMinerMod
+2024-08-15T23:08:03 3.829 INF [MODS] Loading localization from mod: Bau_Indestruitivel_multicores
+2024-08-15T23:08:03 3.829 INF [MODS] Loading localization from mod: BR-EliteZombies
+2024-08-15T23:08:03 3.830 INF [MODS] Loading localization from mod: Scomar82_Hobacs
+2024-08-15T23:08:03 3.832 INF [MODS] Loading localization from mod: DROP_LUA_V1
+2024-08-15T23:08:03 3.832 INF [MODS] Loading localization from mod: Entidades_EQPV1
+2024-08-15T23:08:03 3.833 INF [MODS] Loading localization from mod: AGF-V1-HUDPlus-1Main
+2024-08-15T23:08:03 3.834 INF [MODS] Loading localization from mod: Doughs-InitialPlayerSpawn-AddSmallBundleWithT1Pistol
+2024-08-15T23:08:03 3.834 INF [MODS] Loading localization from mod: PAINEL_ESC_V1
+2024-08-15T23:08:03 3.834 INF [MODS] Loading localization from mod: FNS_Self-Planting_Trees
+2024-08-15T23:08:03 3.835 INF [MODS] Loading localization from mod: Sams_Car_and_Truck_Respawner
+2024-08-15T23:08:03 3.835 INF [MODS] Loading localization from mod: VEICULOS_V1
+2024-08-15T23:10:30 150.989 ERR [MODS] Error while executing GameStartDone on mod "1CSMM_Patrons"
