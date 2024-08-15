@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<!-- Substitua a url e carregue o arquivo (por exemplo, Github) --> 
+<!-- Abra o arquivo e clique no botão raw (no lado direito) --> 
+<!-- Copie e cole a url em windows.xml --> 
+
+<eihwaz.de> 
+	<entry> 
+		<link>https://discord.com/invite/valhalla7d2d</link> 
+		<!-- deixe o restante inalterado --> 
+		<date>2024-01-01 12:00:00Z</date> 
+		<title>Painel do Servidor Deluxe</title> 
+		<text></text><imagerelpath></imagerelpath> 
+	</entry> 
+</eihwaz.de>
